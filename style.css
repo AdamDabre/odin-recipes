@@ -1,0 +1,18 @@
+#title{
+    color: #6cc1fa;
+}
+body{
+    background-color: #18191A;
+}
+
+.button{
+    background-color: #6cc1fa;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.link:link{
+    text-decoration: none;
+}
+.link:visited{
+    text-decoration: none;
+}
