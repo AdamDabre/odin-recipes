@@ -1,8 +1,11 @@
 #title{
     color: #6cc1fa;
+    font-size: 79px;
 }
-body{
+body,.button{
     background-color: #18191A;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 300;
 }
 
 .button{
@@ -12,7 +15,10 @@ body{
 }
 .link:link{
     text-decoration: none;
+
 }
 .link:visited{
     text-decoration: none;
+
 }
+
